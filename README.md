@@ -63,7 +63,7 @@ I’m particularly passionate about:
 ## 📫 Reach Me At
 
 - 📧 **Email:** [dhananjaygurjar20@gmail.com](mailto:dhananjaygurjar20@gmail.com)  
-- 🧑‍💻 **GitHub:** [github.com/dhananjay1810-arc]((https://github.com/DhananjayGurjar/dhananjay1810_arc/tree/main))
+- 🧑‍💻 **GitHub:** [github.com/dhananjay1810-arc](https://github.com/DhananjayGurjar/dhananjay1810_arc)
 
 ---
 
